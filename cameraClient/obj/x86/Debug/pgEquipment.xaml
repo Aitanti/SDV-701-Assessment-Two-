@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="cameraClient.pgEquipment"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:cameraClient"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,10,10" RequestedTheme="Default" Visibility="Visible">
+        <TextBlock x:ConnectionId='2' x:Name="textBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Camera Equipment Body/Lens" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock x:ConnectionId='3' x:Name="tbBrand" HorizontalAlignment="Left" Margin="10,49,0,0" TextWrapping="Wrap" Text="Brand Name" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='4' x:Name="tbEquipmentInStock" HorizontalAlignment="Left" Margin="10,138,0,0" TextWrapping="Wrap" Text="Camera Equipment In Stock" VerticalAlignment="Top"/>
+        <ListBox x:ConnectionId='5' x:Name="lstquipment" HorizontalAlignment="Left" Height="204" Margin="10,171,0,0" VerticalAlignment="Top" Width="214"                                        />
+        <RadioButton x:ConnectionId='6' x:Name="rbPrice" Content="Price" HorizontalAlignment="Left" Margin="247,241,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='7' x:Name="tbBrandName" HorizontalAlignment="Left" Margin="185,52,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" RenderTransformOrigin="51,0.6"/>
+        <Button x:ConnectionId='8' x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Margin="10,453,0,0" VerticalAlignment="Top" Width="85"                      />
+        <RadioButton x:ConnectionId='9' x:Name="rbName1" Content="Name" HorizontalAlignment="Left" Margin="247,205,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <TextBlock x:ConnectionId='10' x:Name="tbSortBy" HorizontalAlignment="Left" Margin="265,176,0,0" TextWrapping="Wrap" Text="Sort By" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='11' x:Name="tbMessages" HorizontalAlignment="Left" Margin="10,380,0,0" TextWrapping="Wrap" Text="Messages:" VerticalAlignment="Top"/>
+        <Button x:ConnectionId='12' x:Name="btnOrder" Content="Order" HorizontalAlignment="Left" Margin="140,453,0,0" VerticalAlignment="Top" Width="84"                        />
+
+    </Grid>
+</Page>
+

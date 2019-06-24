@@ -1,0 +1,16 @@
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\obj\Debug\camerashopselfhost.csproj.CoreCompileInputs.cache
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\camerashopselfhost.exe.config
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\camerashopselfhost.exe
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\camerashopselfhost.pdb
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\System.Web.Http.dll
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\System.Web.Http.xml
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\obj\Debug\camerashopselfhost.csproj.CopyComplete
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\obj\Debug\camerashopselfhost.exe
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\obj\Debug\camerashopselfhost.pdb
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\camerashopselfhost\obj\Debug\camerashopselfhost.csprojAssemblyReference.cache

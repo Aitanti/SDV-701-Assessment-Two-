@@ -1,0 +1,1 @@
+C:\Users\caman\Documents\Visual Studio 2017\Projects\camerashop\cameraClient\cameraClient.csproj;x86
